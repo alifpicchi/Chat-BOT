@@ -5,7 +5,7 @@ Welcome to **Chat With GPT!**, a simple yet powerful chatting page powered by Ch
 ## Demo
 
 Check out the live demo of this project:  
-[Chat With GPT! Demo](https://ajinkyahub.github.io/Chat-With-GPT/)
+[Chat With GPT! Demo](/)
 
 ## Features
 
@@ -31,8 +31,8 @@ Check out the live demo of this project:
 
 ## Contact
 
-- For general inquiries, reach me via Telegram: [@coderajinkya](https://t.me/coderajinkya)
-- Join my Telegram channel for updates: [@ajinkyahub](https://t.me/ajinkyahub)
+- For general inquiries, reach me via Telegram: [@alifpicchi](https://t.me/alifpicchi)
+- Join my Telegram channel for updates: [@alifpicchi](https://t.me/ap_community)
 
 ## Support
 
