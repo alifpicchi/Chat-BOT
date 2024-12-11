@@ -24,7 +24,7 @@ Check out the live demo of this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ajinkyahub/Chat-With-GPT.git
+   git clone https://github.com/alifpicchi/Chat-GPT.git
    ```
 
 2. Open `index.html` in your browser.
@@ -32,7 +32,7 @@ Check out the live demo of this project:
 ## Contact
 
 - For general inquiries, reach me via Telegram: [@alifpicchi](https://t.me/alifpicchi)
-- Join my Telegram channel for updates: [@alifpicchi](https://t.me/ap_community)
+- Join my Telegram channel for updates: [@ap_community](https://t.me/ap_community)
 
 ## Support
 
